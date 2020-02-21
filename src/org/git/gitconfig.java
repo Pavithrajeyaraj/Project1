@@ -4,6 +4,8 @@ public class gitconfig {
 
 	public static void main(String[] args) {
 		System.out.println("happy");
+		int a=90;
+		
 
 	}
 
